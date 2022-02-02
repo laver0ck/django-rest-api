@@ -61,7 +61,7 @@
                 "sha256:dc41bf07357f1f4810c1c555b685cb51f780b41e37892d6cc92b89789f2847e1"
             ],
             "index": "pypi",
-            "version": "==3.1.12"
+            "version": ">=3.1.14"
         },
         "django-allauth": {
             "hashes": [
